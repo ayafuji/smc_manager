@@ -14,4 +14,5 @@ Tilt1 send "1", when the turn on tilt sensor.
 Simmlarly, tilt2 is "11", lead sensor is "25".
 
 ### serialRead
+openFrameworks Project. This project provide the function whichc manage sensor signal and ems.
 
