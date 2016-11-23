@@ -1,0 +1,11 @@
+<serial>
+    <ems1>/dev/cu.usbserial-A1057P90</ems1>
+    <ems2>/dev/cu.usbmodem14211</ems2>
+    <sensor1>/dev/cu.usbmodem14231</sensor1>
+    <sensor2></sensor2>
+</serial>
+<udp>
+    <ip>192.168.2.2</ip>
+    <port>12000</port>
+</udo>
+<connection>osc</connection>

@@ -1,0 +1,5 @@
+ofxBezierWarpManager
+ofxGui
+ofxNetwork
+ofxOsc
+ofxXmlSettings
