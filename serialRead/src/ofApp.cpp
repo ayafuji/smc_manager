@@ -142,10 +142,7 @@ void ofApp::update(){
         } else {
             
             ofLogWarning() << "Lead Switch Signal : " << x;
-            
-            if(x == 25) {
-                sendManagedOSCMessage("/ir", 1);
-            }
+            sendManagedOSCMessage("/ir", 1);
             
         }
     }
